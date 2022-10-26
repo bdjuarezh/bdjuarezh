@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computation, Monte Carlo Simulations and Data Science
 - 🌱 I’m currently learning Complex Systems
 - 💞️ I’m looking to collaborate on Lattice QCD 
-- 📫 How to reach me via e-mail: bryan.juarez@ciencias.unam.mx
+- 📫 How to reach me via e-mail: bryan.juarez.h @gmail.com
 
 <!---
 bdjuarezh/bdjuarezh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
